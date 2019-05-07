@@ -55,7 +55,7 @@ const Header = ({location}: {location: Location}) => (
             },
 
             [media.greaterThan('small')]: {
-              width: 'calc(100% / 6)',
+              width: 'calc(100% / 12)',
             },
             [media.lessThan('small')]: {
               flex: '0 0 auto',
@@ -122,22 +122,22 @@ const Header = ({location}: {location: Location}) => (
           }}>
           <HeaderLink
             isActive={location.pathname.includes('/docs/')}
-            title="Docs"
+            title="დოკუმენტაცია"
             to="/docs/getting-started.html"
           />
           <HeaderLink
             isActive={location.pathname.includes('/tutorial/')}
-            title="Tutorial"
+            title="შესავალი"
             to="/tutorial/tutorial.html"
           />
           <HeaderLink
             isActive={location.pathname.includes('/blog')}
-            title="Blog"
+            title="ბლოგი"
             to="/blog/"
           />
           <HeaderLink
             isActive={location.pathname.includes('/community/')}
-            title="Community"
+            title="საზოგადოება"
             to="/community/support.html"
           />
         </nav>
@@ -209,7 +209,7 @@ const Header = ({location}: {location: Location}) => (
                   display: 'none',
                 },
               }}>
-              Languages
+              თარგმანი
             </span>
           </Link>
           <a

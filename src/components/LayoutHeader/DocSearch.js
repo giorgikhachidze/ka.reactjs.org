@@ -27,7 +27,7 @@ class DocSearch extends Component<{}, State> {
         inputSelector: '#algolia-doc-search',
       });
     } else {
-      console.warn('Search has failed to load and now is being disabled');
+      console.warn('ძიების ჩატვირთვა ვერ მოხერხდა და ახლა გამორთულია');
       this.setState({enabled: false});
     }
   }
@@ -56,6 +56,7 @@ class DocSearch extends Component<{}, State> {
           // },
           [media.greaterThan('expandedSearch')]: {
             minWidth: 100,
+            maxWidth: 250,
           },
         }}>
         <input
@@ -97,8 +98,8 @@ class DocSearch extends Component<{}, State> {
           }}
           id="algolia-doc-search"
           type="search"
-          placeholder="Search"
-          aria-label="Search docs"
+          placeholder="ძიება"
+          aria-label="დოკუმენტაციის ძიება"
         />
       </form>
     ) : null;
