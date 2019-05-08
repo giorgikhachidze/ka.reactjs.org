@@ -1,8 +1,8 @@
 ---
-title: Component-Based
+title: კომპონენტზე დამოკიდებულება
 order: 1
 ---
 
-Build encapsulated components that manage their own state, then compose them to make complex UIs.
+შექმენით ინკაპსულირებული კომპონენტები, რომელიც მართავს საკუთარ მდგომარეობას, შემდეგ გააერთიანეთ ისინი რთულ მომხმარებლის ინტერფეისში.
 
-Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.
+რადგანაც კომპონენტების ლოგიკა დაწერილია Javascript - ზე და არ შეიცავს შაბლონებს. თქვენ მარტივად შეგიძლიათ გადასცეთ სხვადასხვა მონაცემები მთლიან აპლიკაციას და შეინარჩუნოთ მდგომარეობა DOM - ში.

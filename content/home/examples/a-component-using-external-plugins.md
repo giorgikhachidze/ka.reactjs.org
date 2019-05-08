@@ -1,7 +1,7 @@
 ---
-title: A Component Using External Plugins
+title: კომპონენტი გარე პლაგინის გამოყენებით
 order: 3
 domid: markdown-example
 ---
 
-React allows you to interface with other libraries and frameworks. This example uses **remarkable**, an external Markdown library, to convert the `<textarea>`'s value in real time.
+React გაძლევთ საშუალებას სხვა ბიბლიოთეკებთან და ფრეიმვორკებთან მუშაობის. ეს მაგალითი იყენებს **remarkable** გარე ბიბლიოთეკას, რომ რეალურ დროში გარდაქმნას Markdown-სინტაქსი, შეყვანილი `<textarea>` ელემენტში.

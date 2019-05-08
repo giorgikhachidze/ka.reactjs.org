@@ -105,7 +105,7 @@ class CodeEditor extends Component {
                 color: colors.white,
               }}>
               <MetaTitle onDark={true}>
-                Live JSX Editor
+              მოქმედი JSX რედაქტორი
                 <label
                   css={{
                     fontSize: 14,
@@ -206,7 +206,7 @@ class CodeEditor extends Component {
                   padding: '0 10px',
                   backgroundColor: colors.divider,
                 }}>
-                <MetaTitle>Result</MetaTitle>
+                <MetaTitle>შედეგი</MetaTitle>
               </div>
               <div
                 id={containerNodeID}

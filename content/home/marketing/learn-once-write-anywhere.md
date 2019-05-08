@@ -1,8 +1,8 @@
 ---
-title: Learn Once, Write Anywhere
+title: ისწავლეთ ერთხელ, დაწერეთ ყველგან
 order: 2
 ---
 
-We don't make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.
+ჩვენთვის არაა საჭირო თქვენი სხვა ტექნოლოგიების სტეკის შესახებ, აქედან გამომდინარე, შეგიძლიათ შეიმუშაოთ ახალი ფუნქცია React - ზე, არსებული კოდის შეცვლის გარეშე.
 
-React can also render on the server using Node and power mobile apps using [React Native](https://facebook.github.io/react-native/).
+React - ს შეუძლია იმუშაოს  Node.js - ზე, ასევე მობილურ პლატფორმებზე [React Native](https://facebook.github.io/react-native/) - დახმარებით.
