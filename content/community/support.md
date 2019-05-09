@@ -1,6 +1,6 @@
 ---
 id: support
-title: Where To Get Support
+title: საიდან მივიღოთ დახმარება?
 layout: community
 sectionid: community
 permalink: community/support.html
@@ -8,19 +8,20 @@ redirect_from:
   - "support.html"
 ---
 
-React has a community of millions of developers.
+React - ს ყავს მილიონობით დეველოპერის საზოგადოება.
 
-On this page we've listed some React-related communities that you can be a part of; see the other pages in this section for additional online and in-person learning materials.
+ამ გვერდზე არის ნაჩვენები რამოდენიმე საიტი საზოგადოების, სადაც თქვენ შეძლებთ გაწევრიანებას და დახმარების მიღებას. სხვა გვერდებზე ეს სექცია შეგიძლიათ მონახოთ დამატებით რესურსები სწავლისათვის.
 
 ## Stack Overflow {#stack-overflow}
 
-Stack Overflow is a popular forum to ask code-level questions or if you're stuck with a specific error. Read through the [existing questions](https://stackoverflow.com/questions/tagged/reactjs) tagged with **reactjs** or [ask your own](https://stackoverflow.com/questions/ask?tags=reactjs)!
+Stack Overflow არის პოპულარული საიტის კოდზე შეკითხვების, იქ თქვენ დაგეხმარებიან კონკრეტული შეცდომის გასწორებაში. წაიკითხეთ [არსებული შეკითხვები](https://stackoverflow.com/questions/tagged/reactjs) ტეგით **reactjs** ან [შექმენით საკუთარი შეკითხვა](https://stackoverflow.com/questions/ask?tags=reactjs)!
 
-## Popular Discussion Forums {#popular-discussion-forums}
+## პოპულარული განხილვების ფორუმი {#popular-discussion-forums}
 
-There are many online forums which are a great place for discussion about best practices and application architecture as well as the future of React. If you have an answerable code-level question, Stack Overflow is usually a better fit.
+არსებობს ბევრი ფორუმი, რომელიც კარგად შეესაბამება  
+კარგ პრაქტიკებსა და არქიტექტურის აპლიკაციებს, ასევე მომავალ React - ს. თუ, თქვენ გაქვთ რაიმე შეკითხვა კოდზე უკეთესია დასვათ Stack Overflow - ზე.
 
-Each community consists of many thousands of React users.
+ყველა ამ საზოგადოებას ყავს რამოდენიმე ათასი React - ის მომხმარებელი.
 
 * [DEV's React community](https://dev.to/t/react)
 * [Hashnode's React community](https://hashnode.com/n/reactjs)
@@ -28,6 +29,6 @@ Each community consists of many thousands of React users.
 * [Reddit's React community](https://www.reddit.com/r/reactjs/)
 * [Spectrum's React community](https://spectrum.chat/react)
 
-## News {#news}
+## სიახლეები {#news}
 
-For the latest news about React, [follow **@reactjs** on Twitter](https://twitter.com/reactjs) and the [official React blog](/blog/) on this website.
+იმისათვის, რომ იყოთ React - ზე სიახლეების კურსში, [გამოიწერეთ **@reactjs** Twitter - ზე](https://twitter.com/reactjs) და გადახედეთ [ოფიციალურ React ბლოგს](/blog/) ამავე საიტზე.
