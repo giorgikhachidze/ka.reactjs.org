@@ -46,29 +46,29 @@ const Languages = ({location}: Props) => (
     <Container>
       <div css={sharedStyles.articleLayout.container}>
         <div css={sharedStyles.articleLayout.content}>
-          <Header>Languages</Header>
-          <TitleAndMetaTags title="React - Languages" />
+          <Header>თარგმანი</Header>
+          <TitleAndMetaTags title="React - თარგმანი" />
 
           <div css={sharedStyles.markdown}>
             <p>
-              The React documentation is available in the following languages:
+              React დოკუმენტაცია ხელმისაწვდომია შემდეგ ენებზე:
             </p>
 
             <LanguagesGrid languages={complete} />
 
-            <h2>In Progress</h2>
+            <h2>თარგმნის პროცესშია</h2>
             <LanguagesGrid languages={partial} />
 
-            <h2>Needs Contributors</h2>
+            <h2>სჭირდება მონაწილეები</h2>
             <LanguagesGrid languages={incomplete} />
 
             <p>
-              Don't see your language above?{' '}
+              ვერ ნახეთ თქვენი ენა?{' '}
               <a
                 href="https://github.com/reactjs/reactjs.org-translation#reactjsorg-translation"
                 target="_blank"
                 rel="noopener">
-                Let us know
+                შეგვატყობინე
               </a>
               .
             </p>
@@ -149,7 +149,7 @@ const Language = ({code, name, status, translatedName}) => {
           href={`https://github.com/reactjs/${prefix}reactjs.org/`}
           target="_blank"
           rel="noopener">
-          Contribute
+          მონაწილეობა
         </a>
       </div>
     </li>
