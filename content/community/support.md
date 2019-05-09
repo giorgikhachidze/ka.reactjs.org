@@ -14,7 +14,7 @@ React - ს ყავს მილიონობით დეველოპე
 
 ## Stack Overflow {#stack-overflow}
 
-Stack Overflow არის პოპულარული საიტის კოდზე შეკითხვების, იქ თქვენ დაგეხმარებიან კონკრეტული შეცდომის გასწორებაში. წაიკითხეთ [არსებული შეკითხვები](https://stackoverflow.com/questions/tagged/reactjs) ტეგით **reactjs** ან [შექმენით საკუთარი შეკითხვა](https://stackoverflow.com/questions/ask?tags=reactjs)!
+Stack Overflow არის პოპულარული საიტი კოდზე შეკითხვების, თქვენ აქ დაგეხმარებიან კონკრეტული შეცდომის გასწორებაში. წაიკითხეთ [არსებული შეკითხვები](https://stackoverflow.com/questions/tagged/reactjs) ტეგით **reactjs** ან [შექმენით საკუთარი შეკითხვა](https://stackoverflow.com/questions/ask?tags=reactjs)!
 
 ## პოპულარული განხილვების ფორუმი {#popular-discussion-forums}
 
