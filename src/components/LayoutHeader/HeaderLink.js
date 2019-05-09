@@ -51,7 +51,7 @@ const style = {
   [media.greaterThan('xlarge')]: {
     paddingLeft: 20,
     paddingRight: 20,
-    fontSize: 18,
+    fontSize: 16,
 
     ':hover:not(:focus)': {
       color: colors.brand,
